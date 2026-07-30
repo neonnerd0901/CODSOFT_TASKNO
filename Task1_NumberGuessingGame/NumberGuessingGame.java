@@ -1,3 +1,8 @@
+/* Description:
+ * The program generates a random number between 1 and 100.
+ * The user has to guess the correct number within limited attempts.
+ * The program provides hints and supports multiple rounds.
+ */
 import java.util.Random;
 import java.util.Scanner;
 
